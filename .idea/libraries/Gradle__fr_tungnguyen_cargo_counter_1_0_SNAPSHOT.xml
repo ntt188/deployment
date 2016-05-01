@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: fr.tungnguyen.cargo:counter:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Could not find fr.tungnguyen.cargo:counter:1.0-SNAPSHOT." />
+      <root url="jar://$MAVEN_REPOSITORY$/fr/tungnguyen/cargo/counter/1.0-SNAPSHOT/counter-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
